@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AFF804DAC378A51D79978D994024D5F96FE10537",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AFF804DAC378A51D79978D994024D5F96FE10537" : 0,
+    "D592E359647CFA55BA24127435B682530B0363E8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1580C929-171A-4170-80B2-2A76987F3372",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AFF804DAC378A51D79978D994024D5F96FE10537" : "AutoLayout-scrollview-example\/",
+    "D592E359647CFA55BA24127435B682530B0363E8" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ScrollViewContainer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ScrollViewContainer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aligermiyanoglu\/AutoLayout-scrollview-example",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AFF804DAC378A51D79978D994024D5F96FE10537"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aligermiyanoglu\/iOS-CircleProgressView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D592E359647CFA55BA24127435B682530B0363E8"
+    }
+  ]
+}
